@@ -1,16 +1,32 @@
-## Hi there 👋
+## Yang Yue · Indie Developer
 
-<!--
-**yangyue1974/yangyue1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-native products. Based in China.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Products
+
+| | |
+|---|---|
+| **[Audiolib.ai](https://audiolib.ai)** | Audio infrastructure API for developers — curated libraries, instant API key, single-call track fetch |
+| **Beatix** | Electronic music app |
+| **Zenya** | Wellness / sleep / meditation music |
+| **Jymo** | Sports fitness music |
+
+---
+
+### Stack
+
+`Next.js` `React Native` `Supabase` `Vercel` `TypeScript` `Python` `Claude API`
+
+---
+
+### Find me
+
+- [audiolib.ai](https://audiolib.ai)
+- [@yangyue1974](https://x.com/yangyue1974) on X
+- [43.group](https://43.group)
+
+---
+
+*I build with AI tools. All music in my apps is self-produced.*
