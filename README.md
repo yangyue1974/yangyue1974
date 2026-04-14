@@ -9,9 +9,10 @@ Building AI-native products. Based in China.
 | | |
 |---|---|
 | **[Audiolib.ai](https://audiolib.ai)** | Audio infrastructure API for developers — curated libraries, instant API key, single-call track fetch |
-| **Beatix** | Electronic music app |
-| **Zenya** | Wellness / sleep / meditation music |
-| **Jymo** | Sports fitness music |
+| **[GospelHub.love](https://www.gospelhub.love)** | The world's first contemporary gospel music library |
+| **Beatix** | Electronic music app · iOS / Android |
+| **Zenya** | Wellness / sleep / meditation music · iOS / Android |
+| **Jymo** | Sports fitness music · iOS / Android |
 
 ---
 
